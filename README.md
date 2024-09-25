@@ -1,6 +1,6 @@
-idea progetto: creare un sito/bot in cui tieni traccia degli alimenti che stanno per scadere, suggerendo ricette per utilizzare cosa hanno a disposizione gli utenti
+Idea progetto: creare un sito/bot in cui tieni traccia degli alimenti che stanno per scadere, suggerendo ricette per utilizzare cosa hanno a disposizione gli utenti
 
-esempi progetti: Bot Discord, Calcolatore Efficienza Energetica:
+Esempi progetti: Bot Discord, Calcolatore Efficienza Energetica:
 
 - BOT DISCORD: 
 1 - Il bot chiede che tipo di prodotto è:
@@ -19,6 +19,9 @@ esempi progetti: Bot Discord, Calcolatore Efficienza Energetica:
 
 - SITO:
 1 - Alla prima pagina c'è una breve spiegazione dello scopo del progetto/sito e delle informazioni sull'impatto degli alimenti e del loro spreco/uso sull'ambiente.
+  
 2 - Al fondo della pagina c'è un pulsante che porta l'utente a un'altra pagina in cui si chiede il tipo di prodotto e la scadenza.
+
 3 (extra step) - L'utente può scegliere una ricetta dolce o salata.
+
 4 - Si caricano le ricette sul sito oppure viene mandato un link a delle ricette che soddisfano le richieste dell'utente.
