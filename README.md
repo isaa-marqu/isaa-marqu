@@ -2,7 +2,8 @@ Idea progetto: creare un sito/bot in cui tieni traccia degli alimenti che stanno
 
 Esempi progetti: Bot Discord, Calcolatore Efficienza Energetica:
 
-- BOT DISCORD: 
+- BOT DISCORD:
+  
 1 - Il bot chiede che tipo di prodotto è:
   Gruppo 1: Carni, Pesci, Uova
   Gruppo 2: Latte e Derivati
@@ -18,6 +19,7 @@ Esempi progetti: Bot Discord, Calcolatore Efficienza Energetica:
 
 
 - SITO:
+  
 1 - Alla prima pagina c'è una breve spiegazione dello scopo del progetto/sito e delle informazioni sull'impatto degli alimenti e del loro spreco/uso sull'ambiente.
   
 2 - Al fondo della pagina c'è un pulsante che porta l'utente a un'altra pagina in cui si chiede il tipo di prodotto e la scadenza.
